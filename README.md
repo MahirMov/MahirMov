@@ -1,16 +1,20 @@
-## Hi there 👋
+# Its Mahir 
 
-<!--
-**MahirMov/MahirMov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Engineering student based in Baku, Azerbaijan.
+Currently grinding through DevOps and Linux systems administration.
 
-Here are some ideas to get you started:
+## I'm working with
+- Linux (Ubuntu, CentOS)
+- Docker & Docker Compose
+- nginx, Flask
+- Bash scripting
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Kubernetes
+- CI/CD pipelines
+- Monitoring (Prometheus + Grafana)
+
+## Projects
+- [Dockerized nginx + Flask app](https://github.com/MahirMov/journey)
+- [nginx Reverse Proxy with Flask backend](https://github.com/MahirMov/reverse_proxy)
