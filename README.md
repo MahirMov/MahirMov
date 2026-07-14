@@ -18,3 +18,5 @@ Currently grinding through DevOps and Linux systems administration.
 ## Projects
 - [Dockerized nginx + Flask app](https://github.com/MahirMov/journey)
 - [nginx Reverse Proxy with Flask backend](https://github.com/MahirMov/reverse_proxy)
+- [PDF editing tool](https://pdfbasket.com/)
+- [File sharing tool](https://disk.az/)
